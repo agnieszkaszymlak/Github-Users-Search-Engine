@@ -1,0 +1,17 @@
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.usersList {
+    width: 400px;
+    padding-top: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.users {
+    padding: 10px 0;
+    text-decoration: none;
+    vertical-align: middle;
+}
